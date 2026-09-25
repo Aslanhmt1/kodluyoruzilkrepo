@@ -3,7 +3,7 @@ Kodluyoruz Front-End Egitimi kapsaminda ilk repo
 
 Bu repo [Kodluyouruz](https://www.kodluyoruz.org) Front-End egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi ve bir adet de index.html dosyasi barindiriyor.
 
-! [github] (https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
+! [github] (github.png)
 
 ## Installation
 
